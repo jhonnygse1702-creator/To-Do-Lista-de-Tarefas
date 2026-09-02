@@ -1,8 +1,8 @@
- 📝 To-do Avançado
+  To-do Avançado
 
 Uma aplicação web completa e responsiva para gerenciamento de tarefas (To-Do List), desenvolvida com HTML5, CSS3 e JavaScript puro (Vanilla JS).
 
-🚀 Funcionalidades
+ Funcionalidades
 
 - **Criação de tarefas:** Adicione novas tarefas de forma simples e rápida.
 - **Edição de tarefas:** Altere o texto de uma tarefa já criada.
@@ -13,14 +13,14 @@ Uma aplicação web completa e responsiva para gerenciamento de tarefas (To-Do L
   - Pesquise tarefas específicas por palavra-chave.
   - Filtre tarefas por status (Todas, Feitas, A Fazer).
 
- 🛠️ Tecnologias Utilizadas
+  Tecnologias Utilizadas
 
 - **HTML5** — Estruturação semântica da aplicação.
 - **CSS3** — Estilização moderna e layout responsivo.
 - **JavaScript (ES6+)** — Manipulação dinâmica do DOM e lógica de persitência em `localStorage`.
 - **Font Awesome** — Ícones dinâmicos para ações (concluir, editar, remover e limpar busca).
 
- 📂 Como Executar o Projeto
+  Como Executar o Projeto
 
  Clone este repositório:
    ```bash
