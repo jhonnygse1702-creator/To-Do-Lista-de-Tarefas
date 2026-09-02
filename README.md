@@ -1,6 +1,6 @@
   To-do Avançado
 
-Uma aplicação web completa e responsiva para gerenciamento de tarefas (To-Do List), desenvolvida com HTML5, CSS3 e JavaScript puro (Vanilla JS).
+Uma aplicação web completa e responsiva para gerenciamento de tarefas (To-Do List), desenvolvida com HTML5, CSS3 e JavaScript puro 
 
  Funcionalidades
 
